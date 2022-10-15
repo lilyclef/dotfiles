@@ -1,0 +1,7 @@
+*~
+.DS_Store
+.\#*
+~$*
+.aws
+.cache
+config/nvim/dein/repos

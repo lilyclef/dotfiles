@@ -1,0 +1,7 @@
+git config --global alias.c 'commit -v'
+git config --global alias.o 'checkout'
+git config --global alias.b 'checkout -b'
+git config --global alias.p 'pull'
+git config --global alias.pu 'push'
+git config --global alias.puu 'push -u'
+git config --global alias.r 'remote'
